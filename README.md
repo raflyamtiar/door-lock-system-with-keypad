@@ -18,6 +18,11 @@ Sistem **door lock berbasis Arduino** dengan input **keypad 4x4**, output **serv
 ## File Proyek
 
 - `door-lock-with-keypad.ino` — source code utama sistem door lock.
+- `Gambar rangkaian.png` — diagram/wiring rangkaian door lock.
+
+## Gambar Rangkaian
+
+![Gambar Rangkaian Door Lock](Gambar%20rangkaian.png)
 
 ## Mapping Pin (sesuai kode)
 
